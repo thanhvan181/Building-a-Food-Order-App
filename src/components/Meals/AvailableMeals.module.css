@@ -4,6 +4,14 @@
     margin: 2rem auto;
     animation: meals-appear 1s ease-out forwards;
   }
+  .MealsLoading{
+    text-align:center;
+    color: white;
+
+
+  }
+  .MealsError { color: red;
+  text-align: center;}
   
   .meals ul {
     list-style: none;
